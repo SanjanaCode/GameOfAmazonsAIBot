@@ -1,2 +1,4 @@
-# COSC322-team04
-COSC322 Final Project - AI for the Game of Amazons
+# AI for the Game of Amazons
+
+The Game of the Amazons is a two-player strategy board game invented by Walter Zamkauskas in 1988. This game is played on a 10x10 square board with 100 squares, and every player starts with four Amazons (Black or White queen pieces in Chess) that are placed in the corners of the board. The objective of the game is to be the last player with a legal move. A legal move involves moving an Amazon in a straight line (horizontally, vertically, or diagonally), and stopping before a square that is blocked or is occupied by another Amazon. After the move, the player fires an arrow to block a square in a straight line from the arrow's landing position to the edge of the board or a blocked square. The player cannot move through a blocked square or Amazon. If a player cannot make a legal move, then they lose the game. This strategy game requires careful strategic thinking to control the board and they must choose their moves and arrow shots wisely in order to avoid getting trapped and losing their ability to make a legal move.
+
