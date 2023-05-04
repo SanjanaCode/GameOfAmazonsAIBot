@@ -1,0 +1,15 @@
+ubc\cosc322\Algorithm\Heuristic.class
+ubc\cosc322\Algorithm\SearchTree.class
+ubc\cosc322\Graph\Moves$Move.class
+ubc\cosc322\GameStateManager$Square.class
+ubc\cosc322\Algorithm\Distance.class
+ubc\cosc322\Graph\Graph$Edge.class
+ubc\cosc322\Graph\Moves.class
+ubc\cosc322\Graph\Graph.class
+ubc\cosc322\GameStateManager.class
+ubc\cosc322\Graph\Graph$Node.class
+ubc\cosc322\Algorithm\Distance$DistanceNode.class
+ubc\cosc322\Algorithm\SearchTree$MinimaxMove.class
+ubc\cosc322\AIBot$1.class
+ubc\cosc322\Graph\Graph$Edge$Direction.class
+ubc\cosc322\AIBot.class
